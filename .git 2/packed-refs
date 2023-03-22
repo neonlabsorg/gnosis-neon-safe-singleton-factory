@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled sorted 
+c8ddaeacd0dc34f108d99615f09a4c5451d06b98 refs/remotes/origin/add-boba
+90633dc8fac6b4d194d281b5b28c2a6999ba943c refs/remotes/origin/add-canto
+ad758c1158804280694871c0c17212448af68e74 refs/remotes/origin/add-flare
+9621a9a284e53a370ec8c03a313cfe105b38f29a refs/remotes/origin/add-godwoken
+41499ade925ce21379a9b91f63bee1127464ca26 refs/remotes/origin/dogechain
+bb2d9523f142c66b12ec1c38cd4f1a116a68d5c2 refs/remotes/origin/horizen-yuma
+a4ddc9482934a7043b23b61046ba9e0037034d08 refs/remotes/origin/iotex
+6c41e0d500f4ae2f9b3e30b99215d75f41a93c9e refs/remotes/origin/main
+9b17a77ae26ccc3645b475cc7e29e6b74ad8d906 refs/remotes/origin/mantle
+51faabce1b3b4958dba4ab42dae76e174be22af9 refs/remotes/origin/metis-goerli-testnet
+131c3b912e145ec9306d3622bc12b8029c5aaba7 refs/remotes/origin/support-arbitrum-aox
+57537daee41996a51dd1851487cbf64a98be2fcc refs/remotes/origin/support-arbitrum-nitro-goerli
+3720e1f274a89066efb8cde92e24461e3e2bd079 refs/remotes/origin/support-chiado
+c492ad1d4e1025fa1be4da7554f9b712ba80f56f refs/remotes/origin/support-neon
+dd60185dd08d57a3cdafd3038abcfb581eec938a refs/remotes/origin/susono
+a5c2899d66cc8630cee343bea28c214738c592c5 refs/remotes/origin/thunderCore
+6b7afe8479125b24e582377fd10d35f3edf3fc76 refs/tags/v1.0.10
+561667f17bd647b8fabe7fbb269dd40baaed2453 refs/tags/v1.0.11
