@@ -1,6 +1,6 @@
 {
   "name": "gnosis-neon-safe-singleton-factory",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Singleton factory used by Safe related contracts",
   "homepage": "https://github.com/neonlabsorg/gnosis-neon-safe-singleton-factory/",
   "license": "MIT",
